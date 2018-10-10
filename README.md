@@ -1,7 +1,7 @@
 # THE TAP-TOOLBOX
-# TAP-TOOLBOX is a collection of pentest and security scanning software
-# found across the internet. The current collection includes
-# popular security tools and pentest tools created by others and slightly modified by your truly.
+ TAP-TOOLBOX is a collection of pentest and security scanning software
+ found across the internet. The current collection includes
+ popular security tools and pentest tools created by others and slightly modified by your truly.
 
 # :diamonds: Aircrack-ng is a complete suite of tools to assess WiFi network security.
 
@@ -16,7 +16,7 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 # :diamonds: SubScraper v1.1.1
 SubScraper uses DNS brute force, Google & Bing scraping, and Virus Total to enumerate subdomains without an API. Written in Python3, SubScraper performs HTTP(S) requests and DNS "A" record lookups during the enumeration process to validate discovered subdomains. This provides further information to help prioritize targets and aid in potential next steps. Post-Enumeration, "CNAME" lookups are displayed to identify subdomain takeover opportunities.
 
-# :diamonds: Subdomain Takeover 
+# :diamonds: Subdomain Takeover
 Subdomain takeover is a class of vulnerability where subdomain points to an external service that has been deleted. The external services are Github, Heroku, Gitlab, Tumblr and so on. Let’s assume we have a subdomain sub.example.com that points to an external service such as GitHub. If the Github page is removed by its owner and forgot to remove the DNS entry that points to GitHub service. An attacker can simply takeover subdomain by adding CNAME file containing the sub.example.com.
 
 # :diamonds: T.A.P.S -The Automated Pentest Tool-
